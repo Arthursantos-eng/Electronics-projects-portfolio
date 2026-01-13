@@ -1,4 +1,4 @@
-# WiFi-Controlled Smart RGB Lamp
+# WiFi-Controlled Smart RGB LED
 
 ## Overview
 A cloud-controlled RGB lighting system using Arduino Uno and Particle Argon. Color values are transmitted over WiFi and displayed locally through PWM-based LED mixing.
