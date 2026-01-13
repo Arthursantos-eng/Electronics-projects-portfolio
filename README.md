@@ -16,12 +16,14 @@ Electrical Engineering student at UT Dallas with hands-on experience in embedded
 
 ## 🔧 Projects
 
-### 🕹️ Simon Memory Game (Arduino)
-A hardware-based memory game using LEDs, pushbuttons, and sound.
 
-👉 [View Project](simon-memory-game/)
+### 💡 Smart WiFi RGB LED
+Cloud-controlled RGB lighting system using Arduino + Particle.
+
+👉 [View Project](rgb-cloud-lamp/)
 
 ---
+
 
 ### 🌐 Internet Button (Particle)
 WiFi button that sends a cloud message when pressed.
@@ -37,9 +39,13 @@ WiFi button that sends a cloud message when pressed.
 
 ---
 
-### 💡 Smart WiFi RGB LED
-Cloud-controlled RGB lighting system using Arduino + Particle.
 
-👉 [View Project](rgb-cloud-lamp/)
+### 🕹️ Simon Memory Game (Arduino)
+A hardware-based memory game using LEDs, pushbuttons, and sound.
+
+👉 [View Project](simon-memory-game/)
+
+
+
 
 
