@@ -4,6 +4,16 @@ I am an Electrical Engineering student at UT Dallas with hands-on experience in 
 
 ---
 
+## 🛠 Skills
+
+- Arduino / Embedded C++
+- GPIO, PWM, UART / Serial
+- Sensors, LCDs, Buttons
+- Particle Cloud / IoT
+- Breadboarding & Debugging
+  
+---
+
 ## 🔧 Projects
 
 ### 🕹️ Simon Memory Game (Arduino)
@@ -32,13 +42,4 @@ Cloud-controlled RGB lighting system using Arduino + Particle.
 
 👉 [View Project](rgb-cloud-lamp/)
 
----
-
-## 🛠 Skills
-
-- Arduino / Embedded C++
-- GPIO, PWM, UART / Serial
-- Sensors, LCDs, Buttons
-- Particle Cloud / IoT
-- Breadboarding & Debugging
 
