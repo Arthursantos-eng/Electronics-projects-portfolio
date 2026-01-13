@@ -1,6 +1,6 @@
 # Arthur's Electronics & Embedded Systems Portfolio
 
-I am an Electrical Engineering student at UT Dallas with hands-on experience in embedded systems, Arduino, and IoT development.
+Electrical Engineering student at UT Dallas with hands-on experience in embedded systems, Arduino, and IoT development.
 
 ---
 
