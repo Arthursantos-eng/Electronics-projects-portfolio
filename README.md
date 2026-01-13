@@ -44,7 +44,7 @@ WiFi button that sends a cloud message when pressed.
 A hardware-based memory game using LEDs, pushbuttons, and sound.
 
 👉 [View Project](simon-memory-game/) 
- 
+   
 
 
 
