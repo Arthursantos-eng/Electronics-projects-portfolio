@@ -6,7 +6,7 @@ Electrical Engineering student at UT Dallas with hands-on experience in embedded
 
 ## Skills
 
-- Arduino / Embedded C++
+- Arduino / Embedded C++ / Python
 - GPIO, PWM, UART / Serial
 - Sensors, LCDs, Buttons
 - Particle Cloud / IoT
